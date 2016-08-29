@@ -60,3 +60,25 @@ fastlane/test_output
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+
+# Mac
+.DS_Store
+
+## Build generated
+*/build/*
+
+## Various settings
+*.xccheckout
+.idea/
+
+# Adobe Illustrator SDK's samples
+**/samplecode/output/*
+**/*.build/*
+
+# Visual Studio Code
+.vscode/
+
+# NAB
+**/Dependencies/*/Active/*.framework
+**/Dependencies/*/Active/lib*
+**/Release Notes/current.md

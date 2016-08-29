@@ -69,7 +69,12 @@ iOSInjectionProject/
 
 ## Various settings
 *.xccheckout
-.idea/
+
+# fastlane
+**/fastlane/report.xml
+**/fastlane/Preview.html
+**/fastlane/screenshots
+**/fastlane/test_output
 
 # Adobe Illustrator SDK's samples
 **/samplecode/output/*

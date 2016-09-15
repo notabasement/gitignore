@@ -84,6 +84,6 @@ iOSInjectionProject/
 .vscode/
 
 # NAB
-**/Dependencies/*/Active/*.framework
-**/Dependencies/*/Active/lib*
+# **/Dependencies/*/Active/*.framework
+# **/Dependencies/*/Active/lib*
 **/Release Notes/current.md

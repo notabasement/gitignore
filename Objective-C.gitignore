@@ -69,6 +69,7 @@ iOSInjectionProject/
 
 ## Various settings
 *.xccheckout
+*.xcscmblueprint
 
 # fastlane
 **/fastlane/report.xml

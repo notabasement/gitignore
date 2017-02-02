@@ -256,3 +256,9 @@ jspm_packages/
 
 # dotenv environment variables file
 .env
+
+# BUCK
+buck-out/
+\.buckd/
+android/app/libs
+*.keystore

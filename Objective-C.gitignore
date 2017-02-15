@@ -93,9 +93,6 @@ iOSInjectionProject/
 **/samplecode/output/*
 **/*.build/*
 
-# Visual Studio Code
-.vscode/
-
 # NAB
 # **/Dependencies/*/Active/*.framework
 # **/Dependencies/*/Active/lib*

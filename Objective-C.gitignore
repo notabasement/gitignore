@@ -234,7 +234,6 @@ build/Release
 
 # Dependency directories
 node_modules/
-!node_modules/react-native/React
 jspm_packages/
 
 # Optional npm cache directory

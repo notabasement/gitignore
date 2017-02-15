@@ -233,8 +233,8 @@ bower_components
 build/Release
 
 # Dependency directories
-node_modules/
-!node_modules/react-native/React
+**/node_modules/*
+!**/node_modules/react-native
 jspm_packages/
 
 # Optional npm cache directory

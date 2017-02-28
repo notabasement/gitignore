@@ -263,3 +263,5 @@ buck-out/
 \.buckd/
 android/app/libs
 *.keystore
+
+.vscode/.react

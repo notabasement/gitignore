@@ -264,4 +264,6 @@ buck-out/
 android/app/libs
 *.keystore
 
+# Visual Studio Code
 .vscode/.react
+**/.vscode/.react

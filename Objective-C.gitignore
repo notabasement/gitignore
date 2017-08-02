@@ -267,6 +267,7 @@ android/app/libs
 # Visual Studio Code
 .vscode/.react
 **/.vscode/.react
+**/.vscode/tags
 
 # react-native-fbsdk
 ios/Frameworks

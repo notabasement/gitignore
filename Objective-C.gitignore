@@ -273,7 +273,8 @@ android/app/libs
 ios/Frameworks
 
 # Unity
-Unity/[Ll]ibrary/
+Unity/[Ll]ibrary/*[Cc]ache*
+Unity/[Ll]ibrary/metadata
 Unity/[Tt]emp/
 Unity/[Oo]bj/
 Unity/[Bb]uild/

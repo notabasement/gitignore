@@ -308,3 +308,6 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+# CocoaPods
+Production/Pods
